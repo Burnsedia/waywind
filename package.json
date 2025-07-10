@@ -1,0 +1,17 @@
+{
+  "name": "waywind",
+  "version": "1.0.0",
+  "description": "A CLI tool that generates Waybar themes from your TailwindCSS and DaisyUI config. Perfect for Hyprland users who want a consistent, riced desktop.",
+  "keywords": [
+    "waybar",
+    "linux",
+    "cli"
+  ],
+  "license": "GPL-3.0-or-later",
+  "author": "Burnsedia",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
