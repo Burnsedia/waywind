@@ -85,7 +85,7 @@ window#waybar {
 
 ## 📜 License
 
-[GLP](./LICENSE)
+[GLP](./LICENSE.md)
 
 ---
 
