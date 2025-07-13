@@ -89,4 +89,4 @@ window#waybar {
 
 ---
 
-> Made with ❤️ for ricing your system by [@yourhandle](https://github.com/yourhandle)
+> Made with ❤️ for ricing your system by [@Burnsedia](https://github.com/Burnsedia)
