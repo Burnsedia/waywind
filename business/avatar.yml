@@ -1,0 +1,31 @@
+version: "1.0"
+app: waywind
+
+avatar:
+  id: foss_product_user_icp
+  label: Theme Builder Theo
+  role: Linux desktop customizer and frontend engineer
+  context: Wants a consistent theme pipeline across web and desktop
+
+goals:
+  - Reuse Tailwind theme choices in Waybar quickly
+  - Avoid manual CSS translation
+  - Keep desktop theming maintainable
+
+pain_points:
+  - Manual theming is repetitive and fragile
+  - Existing scripts are inconsistent across setups
+  - New users struggle with first configuration
+
+objections:
+  - "Setup might be too niche for my environment"
+  - "I need predictable output, not guesswork"
+
+proof_required:
+  - Clear sample outputs
+  - Fast first successful command
+  - Ongoing maintenance and release cadence
+
+ctas:
+  primary: Install and generate first theme
+  secondary: Sponsor or request setup support
