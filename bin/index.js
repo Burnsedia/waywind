@@ -12,9 +12,8 @@ program
 
 const options = program.opts();
 
-generateTheme({
+await generateTheme({
   config: options.config,
   reload: options.reload,
   output: options.output,
 });
-
